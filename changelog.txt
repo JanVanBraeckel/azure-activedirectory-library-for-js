@@ -1,4 +1,4 @@
-Version 1.0.14
+Version 1.0.15
 =========================
 * Adding ability to specify anonymous sub-urls for a configured endpoint
 * Adding api documentation
